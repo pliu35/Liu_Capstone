@@ -1,8 +1,5 @@
 ---
 title: "Capstone 2020"
-author: "Pai Liu"
-date: "4/28/2929"
-output: html_document
 ---
 
 ## Question1
